@@ -1,4 +1,4 @@
-import Constant from '../Contant';
+import Constant from '../Constant';
 
 export default {
     [Constant.ADD_CONTACT_FORM] : (state) => {
